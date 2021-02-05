@@ -14,6 +14,8 @@ public class MainActivity extends AppCompatActivity {
         getSupportActionBar().setTitle("Git Hub");
         
        int a;
+       int b;
+       int c;
        
     }
 }
